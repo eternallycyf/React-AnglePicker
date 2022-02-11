@@ -19,4 +19,5 @@ const App = () => {
 
 ## display
 
-![avatar](./src/public/image.jpg)
+![avatar](https://wangxince.site/React-AnglePicker/src/public/image.jpg)
+
