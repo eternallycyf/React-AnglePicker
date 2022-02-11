@@ -16,3 +16,7 @@ const App = () => {
 | `setAngle` | `Function` | `undefined` | Yes | The set angle method to be trigger after an angle was changes.
 | `size` | `Number` | `48` | No | Determines the size of the angle picker
 | `snap` | `Number` | `5` | No | Determines the angle change snapping, Can be removed with setting as 0
+
+## display
+
+![avatar](./src/public/image.jpg)
