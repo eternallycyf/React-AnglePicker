@@ -1,3 +1,11 @@
+## Use 
+
+```shell 
+nvm use v16.20.2
+pnpm install
+pnpm start
+```
+
 ## React Angle Picker Usage
 ```js
 import React, { useState } from 'react';
